@@ -35,8 +35,6 @@ import com.example.woof.ui.theme.WoofTheme
 
 //aaaaaaa
 
-//cccccccc
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
