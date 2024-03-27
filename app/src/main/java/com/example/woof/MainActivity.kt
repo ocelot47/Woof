@@ -39,6 +39,9 @@ import com.example.woof.ui.theme.WoofTheme
 //789
 //123
 //12738
+
+// Lực mới nhập 27/3
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
